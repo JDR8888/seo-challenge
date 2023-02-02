@@ -2,7 +2,10 @@
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
 ---
 # Description
-Given starter-code, the challenge is to change all (or as many as possible) non-semantic html elements to appropriate semantic elements (e.g. changing a div to a header, nav, main, section, etc., element). Second, one must make the site more accessible by adding an appropriate title, as well as alt text for images and icons. In addition to editing the html doc, the CSS file has been cleaned up, removing redundant or unnecessary selectors, attributes, etc., but without affecting the look/function of the mock website. view the deployed project @ https://jdr8888.github.io/seo-challenge/ and inspect the html and css.
+Given starter-code, the challenge is to change all (or as many as possible) non-semantic html elements to appropriate semantic elements (e.g. changing a div to a header, nav, main, section, etc., element). Second, one must make the site more accessible by adding an appropriate title, as well as alt text for images and icons. In addition to editing the html doc, the CSS file has been cleaned up, removing redundant or unnecessary selectors, attributes, etc., but without affecting the look/function of the mock website. view the deployed project @ https://jdr8888.github.io/seo-challenge/ and inspect the html and css. 
+Screenshot below:
+![screenshot of project](Assets/images/screenshot.jpg) 
+
 # Installation
 N/A
 # Usage
